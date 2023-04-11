@@ -1,2 +1,3 @@
 hello Nicolas
 Salvou arquivo > adiciona no container > commit > push > ok
+3were
